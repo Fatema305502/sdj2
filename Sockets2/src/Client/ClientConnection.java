@@ -12,10 +12,11 @@ public class ClientConnection implements Runnable
   private ObjectOutputStream outToServer;
   private ObjectInputStream inFromServer;
 
+
   public ClientConnection(Socket serverSocket) {
     this.serverSocket = serverSocket;
     try {
-      outToServer = new ObjectOutputStream(serverSocket.getOutputStream())
+      outToServer = new ObjectOutputStream(serverSocket.getOutputStream());
       inFromServer = new ObjectInputStream(serverSocket.getInputStream());
     } catch (IOException e) {
       e.printStackTrace();
