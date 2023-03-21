@@ -1,0 +1,3 @@
+[2023-35-20  10:35:49] removing a cd has been pressed
+[2023-35-20  10:35:49] title for cd to remove has been entered
+[2023-35-20  10:35:50] cd found and has been removed in the model 

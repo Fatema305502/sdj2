@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Session1/Example Code.iml" filepath="$PROJECT_DIR$/Session1/Example Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ2-23.iml" filepath="$PROJECT_DIR$/SDJ2-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWE/SWE.iml" filepath="$PROJECT_DIR$/SWE/SWE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session1/Session1.iml" filepath="$PROJECT_DIR$/Session1/Session1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session3/Session3.iml" filepath="$PROJECT_DIR$/Session3/Session3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session4/Session4.iml" filepath="$PROJECT_DIR$/Session4/Session4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonMultitonStrategypattern/SingletonMultitonStrategypattern.iml" filepath="$PROJECT_DIR$/SingletonMultitonStrategypattern/SingletonMultitonStrategypattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets1/Sockets1.iml" filepath="$PROJECT_DIR$/Sockets1/Sockets1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets2/Sockets2.iml" filepath="$PROJECT_DIR$/Sockets2/Sockets2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" filepath="$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" />
+    </modules>
+  </component>
+</project>

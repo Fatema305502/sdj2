@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise solutions.iml" filepath="$PROJECT_DIR$/Exercise solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_4_1/Exercise_4_1.iml" filepath="$PROJECT_DIR$/Exercise_4_1/Exercise_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_4_2_UppercaseConverter/Exercise_4_2_UppercaseConverter.iml" filepath="$PROJECT_DIR$/Exercise_4_2_UppercaseConverter/Exercise_4_2_UppercaseConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_4_6_TextEditor/Exercise_4_6_TextEditor.iml" filepath="$PROJECT_DIR$/Exercise_4_6_TextEditor/Exercise_4_6_TextEditor.iml" />
+    </modules>
+  </component>
+</project>
