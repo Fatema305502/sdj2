@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Session1/Example Code.iml" filepath="$PROJECT_DIR$/Session1/Example Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMIExamples/RMIExamples.iml" filepath="$PROJECT_DIR$/RMIExamples/RMIExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-23.iml" filepath="$PROJECT_DIR$/SDJ2-23.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE/SWE.iml" filepath="$PROJECT_DIR$/SWE/SWE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session1/Session1.iml" filepath="$PROJECT_DIR$/Session1/Session1.iml" />
