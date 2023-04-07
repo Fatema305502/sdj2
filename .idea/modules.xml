@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sockets2/Sockets2.iml" filepath="$PROJECT_DIR$/Sockets2/Sockets2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToUpperCaseMVVMSockets/ToUpperCaseMVVMSockets.iml" filepath="$PROJECT_DIR$/ToUpperCaseMVVMSockets/ToUpperCaseMVVMSockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" filepath="$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uppercaseExampleRMI/uppercaseExampleRMI.iml" filepath="$PROJECT_DIR$/uppercaseExampleRMI/uppercaseExampleRMI.iml" />
     </modules>
   </component>
 </project>
