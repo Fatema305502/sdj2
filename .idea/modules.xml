@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session1/Example Code.iml" filepath="$PROJECT_DIR$/Session1/Example Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMIExamples/RMIExamples.iml" filepath="$PROJECT_DIR$/RMIExamples/RMIExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadersWriters/ReadersWriters.iml" filepath="$PROJECT_DIR$/ReadersWriters/ReadersWriters.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ2-23.iml" filepath="$PROJECT_DIR$/SDJ2-23.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWE/SWE.iml" filepath="$PROJECT_DIR$/SWE/SWE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session1/Session1.iml" filepath="$PROJECT_DIR$/Session1/Session1.iml" />
@@ -16,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sockets1/Sockets1.iml" filepath="$PROJECT_DIR$/Sockets1/Sockets1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sockets2/Sockets2.iml" filepath="$PROJECT_DIR$/Sockets2/Sockets2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToUpperCaseMVVMSockets/ToUpperCaseMVVMSockets.iml" filepath="$PROJECT_DIR$/ToUpperCaseMVVMSockets/ToUpperCaseMVVMSockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTestingExample/UnitTestingExample.iml" filepath="$PROJECT_DIR$/UnitTestingExample/UnitTestingExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" filepath="$PROJECT_DIR$/UppercaseMVVM-master/UppercaseMVVM-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/uppercaseExampleRMI/uppercaseExampleRMI.iml" filepath="$PROJECT_DIR$/uppercaseExampleRMI/uppercaseExampleRMI.iml" />
     </modules>
